@@ -1,1 +1,1 @@
-# Lanchonele_SnackGood
+Protótipo de App para uma lanchonete feito para a Atividade Integradora da Universidade. Ao clicar no item escolhido ele será adicionado ao pedido. Usei HTML, CSS e JavaScript e me inspirei em outro projeto meu de cardápio virtual.
