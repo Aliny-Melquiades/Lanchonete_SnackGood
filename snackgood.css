@@ -1,0 +1,48 @@
+h1 {
+
+  text-align: center;
+  font-size: 40px;
+  margin-top: 50px;
+  color: black;
+}
+
+h2 {
+  color: black;
+}
+
+#menu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.item {
+  background-color: white;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 20px;
+  width: 300px;
+  text-align: center;
+  border: groove black;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+preco {
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
+  margin-top: 10px;
+}
+body {
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+  background-image: url("https://th.bing.com/th/id/R.81d011dc1ba3737740283ad9cf7baa33?rik=Cs%2beUMvUQb4T%2bQ&riu=http%3a%2f%2fst2.depositphotos.com%2f5801580%2f10310%2fv%2f950%2fdepositphotos_103106698-stock-illustration-seamless-background-with-a-pattern.jpg&ehk=NC%2bq%2fw5moKxqOOqjZuF%2bxa2Vkyr6V5origDLDzvMR%2bM%3d&risl=&pid=ImgRaw&r=0");
+  background-color: black;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
